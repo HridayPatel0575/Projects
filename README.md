@@ -20,7 +20,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**.
 |-------------|------------|------|
 | Project 1 | Image Caption Generator | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/tree/main/Caption%20Generator%20From%20Image)|
 | Project 2 | MNIST | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/blob/main/mnist(Handwriting).ipynb) |
-| Project 3 | Age Gender Detection | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/blob/main/Age_Gender_Detection.ipynb) |
+| Project 3 | Indian Food Classification | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/tree/main/Indian%20Food%20Classification) |
 
 ---
 
