@@ -1,7 +1,14 @@
 # 📌 My Project Showcase
 
 Welcome to my project portfolio!  
-Below are my projects categorized into **Machine Learning**, **Deep Learning**.
+Below are my projects categorized into **Machine Learning**, **Deep Learning**, and **Computer Vision**.
+
+---
+## 👁️ Computer Vision Projects
+
+| Project Name | Description | Link |
+|-------------|------------|------|
+| Project 1 | Personal Protective Equipment (PPE) Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/personal%20protective%20equipment) |
 
 ---
 
@@ -9,8 +16,8 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**.
 
 | Project Name | Description | Link |
 |-------------|------------|------|
-| Project 1 | Mini Projects |[Click](https://github.com/HridayPatel0575/Mini-Projects.git) |
-| Project 2 | Player Rating Analysis  | [Click](https://github.com/ANSHUTRIVEDI2166/Player-Rating-Analysis-Football.git) |
+| Project 1 | Mini Projects | [Click](https://github.com/HridayPatel0575/Mini-Projects.git) |
+| Project 2 | Player Rating Analysis | [Click](https://github.com/ANSHUTRIVEDI2166/Player-Rating-Analysis-Football.git) |
 
 ---
 
@@ -18,13 +25,13 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**.
 
 | Project Name | Description | Link |
 |-------------|------------|------|
-| Project 1 | Image Caption Generator | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/tree/main/Caption%20Generator%20From%20Image)|
-| Project 2 | MNIST | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/blob/main/mnist(Handwriting).ipynb) |
+| Project 1 | Image Caption Generator | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/tree/main/Caption%20Generator%20From%20Image) |
+| Project 2 | MNIST (Handwritten Digit Recognition) | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/blob/main/mnist(Handwriting).ipynb) |
 | Project 3 | Indian Food Classification | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/tree/main/Indian%20Food%20Classification) |
 
 ---
 
-## ⚙️ Other(MAD,MERN)
+## ⚙️ Other (MAD, MERN)
 
 | Project Name | Description | Link |
 |-------------|------------|------|
@@ -36,9 +43,8 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/HridayPatel0575 
-- LinkedIn: www.linkedin.com/in/hriday-patel-825111338
- 
+- **GitHub:** https://github.com/HridayPatel0575  
+- **LinkedIn:** https://www.linkedin.com/in/hriday-patel-825111338  
 
 ---
 
