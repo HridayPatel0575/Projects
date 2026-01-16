@@ -9,6 +9,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 | Project Name | Description | Link |
 |-------------|------------|------|
 | Project 1 | Personal Protective Equipment (PPE) Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/personal%20protective%20equipment) |
+| Project 2 | Face Mask Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/Face%20Mask%20Detection) |
 
 ---
 
