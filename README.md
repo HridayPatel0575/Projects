@@ -6,7 +6,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 ---
 ## 👁️ Computer Vision Projects
 
-| Project Name | Description | Link |
+| Project ID | Project Name | Link |
 |-------------|------------|------|
 | Project 1 | Personal Protective Equipment (PPE) Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/personal%20protective%20equipment) |
 | Project 2 | Face Mask Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/Face%20Mask%20Detection) |
@@ -16,7 +16,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 
 ## 🤖 Machine Learning (ML) Projects
 
-| Project Name | Description | Link |
+| Project ID | Project Name | Link |
 |-------------|------------|------|
 | Project 1 | Mini Projects | [Click](https://github.com/HridayPatel0575/Mini-Projects.git) |
 | Project 2 | Player Rating Analysis | [Click](https://github.com/ANSHUTRIVEDI2166/Player-Rating-Analysis-Football.git) |
@@ -25,7 +25,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 
 ## 🧠 Deep Learning (DL) Projects
 
-| Project Name | Description | Link |
+| Project ID | Project Name | Link |
 |-------------|------------|------|
 | Project 1 | Image Caption Generator | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/tree/main/Caption%20Generator%20From%20Image) |
 | Project 2 | MNIST (Handwritten Digit Recognition) | [Click](https://github.com/HridayPatel0575/Learning-Deep-Learning/blob/main/mnist(Handwriting).ipynb) |
@@ -35,7 +35,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 
 ## ⚙️ Other (MAD, MERN)
 
-| Project Name | Description | Link |
+| Project ID | Project Name | Link |
 |-------------|------------|------|
 | Project 1 | Student Material HUB | [Click](https://github.com/adityapatel007-byte/Student-Material-Hub.git) |
 | Project 2 | Jaladhi Mobile Application | [Click](https://github.com/shahaarya465/Jaladhi.git) |
