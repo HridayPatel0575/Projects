@@ -15,7 +15,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 
 ---
 
-## 🤖 Machine Learning (ML) Projects
+## 🤖 Machine Learning (ML)/Data Science Projects
 
 | Project ID | Project Name | Link |
 |-------------|------------|------|
