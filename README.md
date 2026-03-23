@@ -11,6 +11,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 | Project 1 | Personal Protective Equipment (PPE) Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/personal%20protective%20equipment) |
 | Project 2 | Face Mask Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/Face%20Mask%20Detection) |
 | Project 3 | Gym-Vision (Live Workout Monitoring) | [Click](https://github.com/HridayPatel0575/Gym-Vision-with-Real-Time-smart-workout-Monitoring.git) |
+| Project 4 | Defect Detection for pharmaceutical industry  | [Click]((https://github.com/HridayPatel0575/PharmaVision-Defect-Detection)) |
 
 ---
 
@@ -40,6 +41,8 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 | Project 1 | Student Material HUB | [Click](https://github.com/adityapatel007-byte/Student-Material-Hub.git) |
 | Project 2 | Jaladhi Mobile Application | [Click](https://github.com/shahaarya465/Jaladhi.git) |
 | Project 3 | Healthcare Application | [Click](https://github.com/HET2005/healthcare-app) |
+| Project 4 | PLM-BOM-ECO | [Click](https://github.com/HridayPatel0575/PLM-BOM-ECO-management-system-Odoo-2026-Winning-Project) |
+
 
 ---
 
