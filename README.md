@@ -11,7 +11,7 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 | Project 1 | Personal Protective Equipment (PPE) Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/personal%20protective%20equipment) |
 | Project 2 | Face Mask Detection using YOLO | [Click](https://github.com/HridayPatel0575/ComputerVision-Yolo/tree/main/Face%20Mask%20Detection) |
 | Project 3 | Gym-Vision (Live Workout Monitoring) | [Click](https://github.com/HridayPatel0575/Gym-Vision-with-Real-Time-smart-workout-Monitoring.git) |
-| Project 4 | Defect Detection for pharmaceutical industry  | [Click]((https://github.com/HridayPatel0575/PharmaVision-Defect-Detection)) |
+| Project 4 | Defect Detection for pharmaceutical industry  | [Click](https://github.com/HridayPatel0575/PharmaVision-Defect-Detection) |
 
 ---
 
@@ -21,6 +21,10 @@ Below are my projects categorized into **Machine Learning**, **Deep Learning**, 
 |-------------|------------|------|
 | Project 1 | Mini Projects | [Click](https://github.com/HridayPatel0575/Mini-Projects.git) |
 | Project 2 | Player Rating Analysis | [Click](https://github.com/ANSHUTRIVEDI2166/Player-Rating-Analysis-Football.git) |
+| Project 3 | Profitpilot-Menu-Intelligence | [Click](https://github.com/HridayPatel0575/Profitpilot-Menu-intelligence) |
+| Project 4 | Honeypot-Scam-Detector | [Click](https://github.com/Jugal-lachhwani/Scammer_detector_agent) |
+| Project 5 | HealthCare Data Engineering pipeline using  Apache Airflow| [Click](https://github.com/Jugal-lachhwani/HealthCare_Data_Engineering_pipeline.git) |
+
 
 ---
 
